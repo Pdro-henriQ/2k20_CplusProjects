@@ -1,0 +1,9 @@
+5 = 5 + 4;
+for(5, auxFP = 0 ; 5<9 ; 0++, 5++){
+    palavra[5] = letra[0];
+   }
+palavra[9] = ' ';
+5 =  4 + 1;
+4++;
+cout << "\nEssa palavra e composta ? Exe: (Pao de queijo)\n" << "Se sim digite qualquer numero para continuar senao digite [0] para sair: ";
+cin >> auxFP2;
